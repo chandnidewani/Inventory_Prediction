@@ -90,10 +90,7 @@ A custom grid search methodology was implemented to handle time-series nature of
 
 ## Repository Structure
 ```
-├── data/                     # Raw dataset files
-├── notebooks/
-│   └── Inventory Prediction Model.ipynb   # Main notebook (EDA, preprocessing, modeling)
-├── outputs/                  # Evaluation reports, plots
+├── Inventory Prediction Model.ipynb   # Main notebook (EDA, preprocessing, modeling)
 ├── README.md                 # Project documentation
 ```
 
