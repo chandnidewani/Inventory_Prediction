@@ -99,7 +99,7 @@ A custom grid search methodology was implemented to handle time-series nature of
 ## How to Run
 Open the Jupyter Notebook and run all cells:
    ```
-   jupyter notebook notebooks/Inventory Prediction Model.ipynb
+   jupyter notebook Inventory Prediction Model.ipynb
    ```
 
 ---
